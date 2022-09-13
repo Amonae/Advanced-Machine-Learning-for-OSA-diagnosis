@@ -8,4 +8,5 @@ This outlines how the OFSP_original csv was converted into OFSP_rpt_rmv by conve
 
 and
 
-"OFSP_English_Amonae_09May"
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/OFSP_English_Amonae_09May.ipynb - 
+This details the process of subsetting the features in OFSP_rpt_rmv, removing duplicate observations, removing features with >80% missingness, etc. It also shows preliminary classifier comparison that was not included in the dissertation
