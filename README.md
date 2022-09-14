@@ -37,3 +37,7 @@ https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/
 
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/SMOTE__complete_patients.ipynb
 
+### Hyperparameter tuning of the RandomForest model using randomsearch and HyperOpt
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Hyperparam_tuning_complete_patients.ipynb
+
