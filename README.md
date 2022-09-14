@@ -70,6 +70,21 @@ https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_2_3.ipynb - 2v3
 
 
+### Outlier identification and removal using Z score and IQR followed by classification with Random Forest can be found here
+It also contains boxplots for continuous feature distribution by severity
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Outlier%20Identification.ipynb
+
+### Incorrect prediction interpretations
+
+This notebook looks at incorrectly classified samples and explores the association between severity and features within correctly and incorrectly classified samples of each severity
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Severity_vs_features_comp_pat.ipynb
+
+This notebook shows boxplots of the feature distribution for correctly and incorrectly classified samples of each severity. 
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/inc_class_boxplots.ipynb
+
 
 
 
