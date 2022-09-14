@@ -17,6 +17,9 @@ This details the process of subsetting the features in OFSP_rpt_rmv, removing du
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Missing_val_imp.ipynb - 
 This includes simple imputation using sklearn and RF models built using imputed data
 
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/MICE.R - 
+This is the code used to impute missing values using MICE and HMISC in R
+
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/missing_value_imp_R.ipynb - 
 This inlcudes RF models built using data imputed with MICE in R. It also features experimentation with varying class weights to improve RF model performance
 
