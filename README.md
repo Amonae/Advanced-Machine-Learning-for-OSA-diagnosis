@@ -41,3 +41,24 @@ https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/
 
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Hyperparam_tuning_complete_patients.ipynb
 
+### Exploring features
+
+Initial exploration of features by severity using histograms. Also shows association of each feature with severity
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/feature_distribution_comp_pat.ipynb -
+
+This uses various methods (correlation, kruskal-wallis, chi2, feature_importance) to explore which features are most important
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Important%20features.ipynb
+
+This creates feature lists based on similar studies (as mentioned in the dissertation Table 11) and examines the effects of using different feature lists by classifier. Each result table reflects a feature set and includes performance metrics for several algorithms.
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_classifier.ipynb
+
+This is the same concept as above, but seach result table reflects an algorithm and includes performance metrics by feature set. It also includes confusion matrices for the feature sets with the highest balanced accuracy for each model.  
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category.ipynb
+
+The following notebooks contain the results for 
+
+
+
+
+
+
