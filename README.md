@@ -78,11 +78,9 @@ https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/
 ### Incorrect prediction interpretations
 
 This notebook looks at incorrectly classified samples and explores the association between severity and features within correctly and incorrectly classified samples of each severity
-
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Severity_vs_features_comp_pat.ipynb
 
 This notebook shows boxplots of the feature distribution for correctly and incorrectly classified samples of each severity. 
-
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/inc_class_boxplots.ipynb
 
 
