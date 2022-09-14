@@ -14,3 +14,13 @@ This details the process of subsetting the features in OFSP_rpt_rmv, removing du
 #### Missing value imputation was done before any further analysis. Steps are in the following files:
 
 
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Missing_val_imp.ipynb - 
+This includes simple imputation using sklearn and RF models built using imputed data
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/missing_value_imp_R.ipynb - 
+This inlcudes RF models built using data imputed with MICE in R. It also features experimentation with varying class weights to improve RF model performance
+
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/RF_no_nan_data.ipynb - 
+This inlcues the code for creating the "complete_patients" csv which removes all patients with missing data, circumventing the need for missing data imputation. All further analysis is done using this csv.   
+
