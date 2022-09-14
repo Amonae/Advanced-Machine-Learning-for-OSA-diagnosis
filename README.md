@@ -55,7 +55,20 @@ https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/
 This is the same concept as above, but seach result table reflects an algorithm and includes performance metrics by feature set. It also includes confusion matrices for the feature sets with the highest balanced accuracy for each model.  
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category.ipynb
 
-The following notebooks contain the results for 
+The following notebooks contain the results of pairwise model analysis. It is the same analysis comparing algorithms by feature sets, however, classification is binary and severities are separated in a pairwise manner (0v1, 0v2, 0v3, 1v2 etc). This is not included in the dissertation but it does offer interesting results.
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_0_1.ipynb - 0v1
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_0_2.ipynb - 0v2
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_0_3.ipynb - 0v3
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_1_2.ipynb - 1v2
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_1_3.ipynb - 1v3
+
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/Feature%20Selection_category_2_3.ipynb - 2v3
+
 
 
 
