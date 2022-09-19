@@ -84,6 +84,24 @@ This notebook shows boxplots of the feature distribution for correctly and incor
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/inc_class_boxplots.ipynb
 
 
+### Contruction of artificial neural networks 
+
+MLP -  
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/MLP_tuning_keras.ipynb
+
+RNN/LSTM - 
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/RNN_talos2.ipynb
+
+CNN - 
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/CNN_tuning_talos.ipynb
+
+#### Exploration of different SVM methods was also explored but it was not included in the dissertation
+https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/SVM.ipynb
+
+
+
+
+
 
 
 
