@@ -104,7 +104,7 @@ In this notebook, a binary classifier is built from the complete_patients datafr
 
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/OFSP_English_Amonae_binary.ipynb
 
-### Building a complete features classifier
+### Building a classifier using all available features
 In this notebook, the OSFP_rpt_rmv df is preprocessed and all feature categories with the exception of "diagnoses" were used to build a classifier. * Note the notebook says it's a binary classifier, but it is multi class. Only 1600 patients had no missing data, so in order to include as many samples as possible, missing data was imputed using median/mode. Several classifiers are used. Models are built on imbalanced data sets and data balanced using SMOTE and ADASYN
 
 https://github.com/Amonae/Advanced-Machine-Learning-for-OSA-diagnosis/blob/main/OFSP_English_Amonae_all_feat.ipynb
